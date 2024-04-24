@@ -11,12 +11,15 @@
 ![download](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/26c11d1a-ab75-47dd-9880-fd56e14a9911)
 
 > ### 소프트웨어 vs 하드웨어
-> > #### 소프트웨어
-> > >
-> > > ![download](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/b0579c54-d1fc-4ec3-b6bb-ed8c3deaa048)
-> > #### 하드웨어
+> > > #### 하드웨어
 > > > 부품<br>
-> > > ![different-electronic-parts-and-components-for-computer_80590-3395](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/5758a55f-2749-4fea-b783-17eacd6abbf7)
+> > > ![different-electronic-parts-and-components-for-computer_80590-3395](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/e9fb1da0-5f1c-4d04-8753-d418fb79abed)
+> > > 
+> > #### 소프트웨어
+> > > 하드웨어를 동작시키는 프로그램
+> > > ![download](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/b0579c54-d1fc-4ec3-b6bb-ed8c3deaa048)
+
+
 
 
 > ### 어플리케이션이란
