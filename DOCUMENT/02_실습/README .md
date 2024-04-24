@@ -203,9 +203,9 @@ public class ArduinoRestController {
 
 부분코드[속성]
 ---
-> serialPort : 아두이노 COM PORT NO
-> outputStream : 출력 스트림
-> inputStream : 입력 스트림
+> serialPort : 아두이노 COM PORT NO <br>
+> outputStream : 출력 스트림 <br>
+> inputStream : 입력 스트림 <br>
 ```
     private SerialPort serialPort;
     private OutputStream outputStream;
