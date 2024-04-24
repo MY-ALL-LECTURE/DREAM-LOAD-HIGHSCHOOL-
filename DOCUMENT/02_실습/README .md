@@ -1,4 +1,42 @@
-# WEB SERVER(SPRINGBOOT)
+# 아두이노 작업하기
+
+실습 이미지
+---
+> LED 점등 <br>
+
+![ArduinoLogic](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/7b8bcb72-3be7-4a6d-9a0e-f41e883bc3f7)
+
+ 
+실습 코드
+---
+> 점등 제어 코드
+```
+const int ledPin = 13;
+void setup() {
+  Serial.begin(9600);
+  pinMode(ledPin,OUTPUT);
+}
+
+void loop() {
+  if(Serial.available()){
+   	char inputVal = Serial.read();
+    Serial.println(inputVal);
+    if(inputVal == '1'){
+      digitalWrite(ledPin,HIGH);
+      Serial.println("LED:ON");
+    }
+    else if(inputVal == '0'){
+      digitalWrite(ledPin,LOW);
+      Serial.println("LED:OFF");
+    }
+  }
+  delay(100);
+}
+
+```
+
+
+# 웹서버 작업하기
 
 웹페이지 코드
 ---
