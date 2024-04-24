@@ -7,7 +7,7 @@
 기본개념 소개
 ---
 > ### 프로그램이란
-- 진행 계획이나 순서, 잘짜여진 순서의 묶음
+- 진행 계획이나 순서, 잘짜여진 순서의 묶음 <br>
 ![download](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/26c11d1a-ab75-47dd-9880-fd56e14a9911)
 
 
