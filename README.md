@@ -15,7 +15,9 @@
 > > >
 > > > ![download](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/b0579c54-d1fc-4ec3-b6bb-ed8c3deaa048)
 > > #### 하드웨어
-> > > thththth <br><br>
+> > > 부품<br>
+> > > ![different-electronic-parts-and-components-for-computer_80590-3395](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/5758a55f-2749-4fea-b783-17eacd6abbf7)
+
 
 > ### 어플리케이션이란
 ```
