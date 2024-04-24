@@ -7,9 +7,10 @@
 기본개념 소개
 ---
 > ### 프로그램이란
-```
-마자
-```
+
+![download](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/26c11d1a-ab75-47dd-9880-fd56e14a9911)
+
+
 
 > ### 소프트웨어 vs 하드웨어
 ```
