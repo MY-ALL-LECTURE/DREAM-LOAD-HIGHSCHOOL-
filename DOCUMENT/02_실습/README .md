@@ -116,7 +116,7 @@ public class ArduinoController {
 
 ```
 
-URL PAGE 확인
+웹페이지 확인
 ---
 > Browser > http://localhost:8080/arduino/index <br>
 
@@ -126,16 +126,141 @@ URL PAGE 확인
 
 
 
-TEST
+웹 점등제어 코드 구현[전체코드]
 ---
-> TEST
+>  src > main > java.com.example.demo.restcontroller.ArduinoRestController
 ```
-TEST
+package com.example.demo.restcontroller;
+
+
+import com.fazecast.jSerialComm.SerialPort;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import javax.servlet.http.HttpServletRequest;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+
+@RestController
+@Slf4j
+@RequestMapping("/arduino")
+public class ArduinoRestController {
+
+    private SerialPort serialPort;
+    private OutputStream outputStream;
+    private InputStream inputStream;
+
+    @GetMapping("/connection/{COM}")
+    public ResponseEntity<String> setConnection(@PathVariable("COM") String COM, HttpServletRequest request) {
+        log.info("GET /arduino/connection " + COM  + " IP : " + request.getRemoteAddr());
+
+        if(serialPort!=null){
+            serialPort.closePort();
+            serialPort=null;
+        }
+
+        //Port Setting
+        serialPort = SerialPort.getCommPort(COM);
+
+        //Connection Setting
+        serialPort.setBaudRate(9600);
+        serialPort.setNumDataBits(8);
+        serialPort.setNumStopBits(0);
+        serialPort.setParity(0);
+
+        boolean isOpen =  serialPort.openPort();
+        log.info("isOpen ? " + isOpen);
+
+        if(isOpen){
+            this.outputStream   = serialPort.getOutputStream();
+            this.inputStream    = serialPort.getInputStream();
+
+            return new ResponseEntity("CONNECTION SUCCESS..!", HttpStatus.OK);
+        }
+        else{
+            return new ResponseEntity("CONNECTION FAIL..!", HttpStatus.BAD_GATEWAY);
+        }
+    }
+
+    @GetMapping("/led/{value}")
+    public void led_Control(@PathVariable String value, HttpServletRequest request) throws IOException {
+        log.info("GET /arduino/led/value : " + value + " IP : " + request.getRemoteAddr());
+        if(serialPort.isOpen()){
+            outputStream.write(value.getBytes());
+            outputStream.flush();
+        }
+    }
+
+}
+
 ```
 
-TEST
+부분코드[속성]
+---
+> serialPort : 아두이노 COM PORT NO
+> outputStream : 출력 스트림
+> inputStream : 입력 스트림
+```
+    private SerialPort serialPort;
+    private OutputStream outputStream;
+    private InputStream inputStream;
+```
+
+부분코드[속성]
 ---
 > TEST
 ```
-TEST
+   @GetMapping("/connection/{COM}")
+    public ResponseEntity<String> setConnection(@PathVariable("COM") String COM, HttpServletRequest request) {
+        log.info("GET /arduino/connection " + COM  + " IP : " + request.getRemoteAddr());
+
+        if(serialPort!=null){
+            serialPort.closePort();
+            serialPort=null;
+        }
+
+        //Port Setting
+        serialPort = SerialPort.getCommPort(COM);
+
+        //Connection Setting
+        serialPort.setBaudRate(9600);
+        serialPort.setNumDataBits(8);
+        serialPort.setNumStopBits(0);
+        serialPort.setParity(0);
+
+        boolean isOpen =  serialPort.openPort();
+        log.info("isOpen ? " + isOpen);
+
+        if(isOpen){
+            this.outputStream   = serialPort.getOutputStream();
+            this.inputStream    = serialPort.getInputStream();
+
+            return new ResponseEntity("CONNECTION SUCCESS..!", HttpStatus.OK);
+        }
+        else{
+            return new ResponseEntity("CONNECTION FAIL..!", HttpStatus.BAD_GATEWAY);
+        }
+    }
+
 ```
+
+부분코드[속성]
+---
+> TEST
+```
+    @GetMapping("/led/{value}")
+    public void led_Control(@PathVariable String value, HttpServletRequest request) throws IOException {
+        log.info("GET /arduino/led/value : " + value + " IP : " + request.getRemoteAddr());
+        if(serialPort.isOpen()){
+            outputStream.write(value.getBytes());
+            outputStream.flush();
+        }
+    }
+```
+
