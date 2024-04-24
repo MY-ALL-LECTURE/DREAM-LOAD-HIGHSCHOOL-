@@ -214,7 +214,7 @@ public class ArduinoRestController {
 
 부분코드[속성]
 ---
-> TEST
+> 아두이노와 웹서버와의 연결을 담당
 ```
    @GetMapping("/connection/{COM}")
     public ResponseEntity<String> setConnection(@PathVariable("COM") String COM, HttpServletRequest request) {
@@ -252,7 +252,7 @@ public class ArduinoRestController {
 
 부분코드[속성]
 ---
-> TEST
+> 웹서버 버튼 이벤트에 따른 아두이노 LED 점등 처리
 ```
     @GetMapping("/led/{value}")
     public void led_Control(@PathVariable String value, HttpServletRequest request) throws IOException {
