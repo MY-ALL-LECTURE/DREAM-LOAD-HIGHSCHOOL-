@@ -11,7 +11,7 @@
 ![download](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/26c11d1a-ab75-47dd-9880-fd56e14a9911)
 
 > ### 소프트웨어 vs 하드웨어
-> > > #### 하드웨어
+> > #### 하드웨어
 > > > 부품<br>
 > > > ![images](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/f6c18eac-bea5-4b57-9c43-bc2cb5cf7f6d)
 <br><br>
