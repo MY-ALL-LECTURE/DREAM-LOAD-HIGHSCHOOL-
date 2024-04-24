@@ -212,7 +212,7 @@ public class ArduinoRestController {
     private InputStream inputStream;
 ```
 
-부분코드[속성]
+부분코드[기능]
 ---
 > 아두이노와 웹서버와의 연결을 담당
 ```
@@ -250,7 +250,7 @@ public class ArduinoRestController {
 
 ```
 
-부분코드[속성]
+부분코드[기능]
 ---
 > 웹서버 버튼 이벤트에 따른 아두이노 LED 점등 처리
 ```
