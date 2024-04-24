@@ -16,7 +16,7 @@
 > > > ![images](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/f6c18eac-bea5-4b57-9c43-bc2cb5cf7f6d)
 <br><br>
 > > #### 소프트웨어
-> > > 하드웨어를 동작시키는 프로그램
+> > > 하드웨어를 동작시키는 프로그램<br>
 > > > ![download](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/b0579c54-d1fc-4ec3-b6bb-ed8c3deaa048)
 
 
