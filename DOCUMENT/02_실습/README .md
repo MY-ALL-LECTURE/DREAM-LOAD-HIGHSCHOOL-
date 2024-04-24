@@ -2,7 +2,7 @@
 
 웹페이지 코드
 ---
-> TEST
+> src > main > resources > templates > arduino > index.html
 ```
 <!DOCTYPE html>
 <html lang="en">
