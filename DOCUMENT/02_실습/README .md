@@ -1,6 +1,6 @@
 # WEB SERVER(SPRINGBOOT)
 
-URL MAPPING 
+페이지 표시하기
 ---
 > src>main>java.com.example.demo.controller.ArduinoController
 ```
