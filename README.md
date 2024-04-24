@@ -13,8 +13,8 @@
 > ### 소프트웨어 vs 하드웨어
 > > > #### 하드웨어
 > > > 부품<br>
-> > > ![different-electronic-parts-and-components-for-computer_80590-3395](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/e9fb1da0-5f1c-4d04-8753-d418fb79abed)
-> > > 
+> > > ![images](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/f6c18eac-bea5-4b57-9c43-bc2cb5cf7f6d)
+
 > > #### 소프트웨어
 > > > 하드웨어를 동작시키는 프로그램
 > > > ![download](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/b0579c54-d1fc-4ec3-b6bb-ed8c3deaa048)
