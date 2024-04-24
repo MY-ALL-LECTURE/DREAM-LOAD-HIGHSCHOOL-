@@ -12,9 +12,9 @@
 
 > ### 소프트웨어 vs 하드웨어
   > > #### 소프트웨어
-  > > thththth <br><br>
+  > > > thththth <br><br>
   > > #### 하드웨어
-  > > thththth <br><br>
+  > > > thththth <br><br>
 
 > ### 어플리케이션이란
 ```
