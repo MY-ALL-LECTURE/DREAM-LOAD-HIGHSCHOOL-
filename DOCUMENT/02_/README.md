@@ -58,18 +58,17 @@ ARDUINO 구성품 확인
 |-|-|-|
 |-|-|-|
 |<img width=450px height=300px src="IMG/05/1.png" /> |-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
+|<img width=450px height=300px src="IMG/05/2.png" /> |-|-|
+|<img width=450px height=300px src="IMG/05/3.png" /> |-|-|
+|<img width=450px height=300px src="IMG/05/4.png" /> |-|-|
+|<img width=450px height=300px src="IMG/05/5.png" /> |-|-|
+|<img width=450px height=300px src="IMG/05/6.png" /> |-|-|
+|<img width=450px height=300px src="IMG/05/7.png" /> |-|-|
+|<img width=450px height=300px src="IMG/05/8.png" /> |-|-|
+|<img width=450px height=300px src="IMG/05/9.png" /> |-|-|
+|<img width=450px height=300px src="IMG/05/10.png" /> |-|-|
+|<img width=450px height=300px src="IMG/05/11.png" /> |-|-|
+|<img width=450px height=300px src="IMG/05/12.png" /> |-|-|
 
 
 
