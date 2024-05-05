@@ -13,7 +13,7 @@
 
 |-|
 |-|
-|<img width=450px height=300px src="1.jpg"/>| 
+|<img src="1.jpg"/>| 
 
 
 
@@ -23,7 +23,7 @@
 |하드웨어|-|소프트웨어|
 |-|-|-|
 |부품|-|하드웨어를 동작시키는 프로그램|
-|![images](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/f6c18eac-bea5-4b57-9c43-bc2cb5cf7f6d)|-|![download](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/b0579c54-d1fc-4ec3-b6bb-ed8c3deaa048)|
+|<img width=450px height=300px src="2.jpg"/>|-|<img width=450px height=300px src="3.jpg"/>|
 
 
 #### 소프트웨어 종류
@@ -32,7 +32,7 @@
 |시스템 S/W|-|APPLICATION|
 |-|-|-|
 |HardWare를 제어|-|사용자의목적달성|
-|<img src="https://github.com/MY-ALL-LECTURE/PYTHON/assets/84259104/8e2cd21c-fe96-49b6-8c94-0cd05c73a26c" width="400px" height="200px" />|-|<img src="https://github.com/MY-ALL-LECTURE/PYTHON/assets/84259104/e5a2f3ad-2074-43dd-ab30-ef395a0b4e0a" width="400px" height="200px" /> |
+|<img width=450px height=300px src="4.jpg"/>|-|<img width=450px height=300px src="5.jpg"/> |
 
 
 #### 시스템
@@ -42,10 +42,8 @@
 
 |-|
 |-|
-|<img width=450px height=300px src="https://www.shutterstock.com/shutterstock/photos/2128036841/display_1500/stock-vector--s-retro-vaporwave-aesthetics-digital-screen-user-interface-cute-old-computer-ui-elements-2128036841.jpg" /> |
-|<img width=450px height=300px src="https://previews.123rf.com/images/aleksorel/aleksorel1707/aleksorel170700022/82180102-cpu-%EC%B9%A9-%EB%B0%8F-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C%EB%A5%BC-%EB%B2%A1%ED%84%B0-%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EB%A0%88%EC%9D%B4-%EC%85%98-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EC%9A%94%EC%86%8C-cpu-%EC%B9%A9-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%9E%A8-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%98%EB%93%9C-%EB%94%94%EC%8A%A4%ED%81%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-%EB%93%B1-%EB%9D%BC%EC%9D%B8-%EC%95%84%ED%8A%B8-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%8B%9C%EC%8A%A4%ED%85%9C.jpg" />|
-|-|
-
+|<img width=450px height=300px src="6.jpg"/> |
+|<img width=450px height=300px src="7.jpg"/>>|
 
 #### 플랫폼
 ---
@@ -65,7 +63,7 @@
 
 |-|
 |-|
-|<img width=450px height=300px src="https://www.shutterstock.com/shutterstock/photos/1522094915/display_1500/stock-photo-computer-network-internet-concept-network-diagram-d-illustration-1522094915.jpg" /> |
+|<img width=450px height=300px src="8.jpg"/> |
 
 #### 아키텍처란
 ---
@@ -75,5 +73,5 @@
 
 |-|
 |-|
-|<img width=450px height=300px src="https://pixabay.kr/data/file/notice/thumb-1596478864771_835x470.jpg" /> |
+|<img width=450px height=300px src="9.jpg"/> |
 
