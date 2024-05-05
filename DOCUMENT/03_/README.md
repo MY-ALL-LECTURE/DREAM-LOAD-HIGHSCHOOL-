@@ -55,7 +55,6 @@ void loop() {
    Serial.println("[Loop] HELLOWORLD");
    delay(1000);
 }
-
 ```
 
 ---
