@@ -1,0 +1,23 @@
+int buzzer = 9;                                      // buzzer을 9로 설정합니다.
+const int Button = 2;
+const int Tones[8]={261,294,330,349,392,440,494,523};  // 도, 레, 미, 파, 솔, 라, 시,도
+int current_tone = 0 ;
+void setup() {
+  Serial.begin(9600);
+  pinMode(buzzer, OUTPUT);              // buzzer를 출력핀으로 설정합니다.
+  pinMode(Button,INPUT);
+}
+void loop() {
+   
+  int val = digitalRead(Button);
+  Serial.println(val);
+  if(val==HIGH)
+  {
+     tone(buzzer,Tones[current_tone++]);
+     delay(500);
+     if(current_tone==8)
+        current_tone=0;
+  }
+  noTone(buzzer);
+  
+}
