@@ -13,7 +13,7 @@
 
 |-|
 |-|
-|<img src="1.jpg"/>| 
+|<img src="img/1.jpg"/>| 
 
 
 
@@ -23,7 +23,7 @@
 |하드웨어|-|소프트웨어|
 |-|-|-|
 |부품|-|하드웨어를 동작시키는 프로그램|
-|<img src="2.jpg"/>|-|<img  src="3.jpg"/>|
+|<img src="img/2.jpg"/>|-|<img  src="img/3.jpg"/>|
 
 
 #### 소프트웨어 종류
@@ -32,7 +32,7 @@
 |시스템 S/W|-|APPLICATION|
 |-|-|-|
 |HardWare를 제어|-|사용자의목적달성|
-|<img width=450px height=300px src="4.jpg"/>|-|<img width=450px height=300px src="5.jpg"/> |
+|<img width=450px height=300px src="img/4.jpg"/>|-|<img width=450px height=300px src="img/5.jpg"/> |
 
 
 #### 시스템
@@ -42,8 +42,8 @@
 
 |-|
 |-|
-|<img width=450px height=300px src="6.jpg"/> |
-|<img width=450px height=300px src="7.jpg"/>>|
+|<img width=450px height=300px src="img/6.jpg"/> |
+|<img width=450px height=300px src="img/7.jpg"/>>|
 
 #### 플랫폼
 ---
@@ -63,7 +63,7 @@
 
 |-|
 |-|
-|<img width=450px height=300px src="8.jpg"/> |
+|<img width=450px height=300px src="img/8.jpg"/> |
 
 #### 아키텍처란
 ---
@@ -73,5 +73,5 @@
 
 |-|
 |-|
-|<img width=450px height=300px src="9.jpg"/> |
+|<img width=450px height=300px src="img/9.jpg"/> |
 
