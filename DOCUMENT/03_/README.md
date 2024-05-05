@@ -31,13 +31,14 @@
 
 LED 점등실습-01
 ---
-> - <br>
+> 그림 <br>
 
 |-|
 |-|
 |[바로가기-시뮬레이터](https://www.tinkercad.com/things/7hG3uHjqq5y-led-?sharecode=8ZboE8SFsWNvcxJhP5Elq_7MJDO3u65oWl48yYvu5yQ)|
 |<img src="IMG/01/1.png"/> |
 
+> 예제 1 <br>
 
 ```
 const unsigned int pinNo = 2;
@@ -52,6 +53,8 @@ void loop()
 	digitalWrite(pinNo, HIGH);
 }
 ```
+
+> 예제 2 <br>
 
 ```
 const unsigned int pinNo = 2;
