@@ -19,13 +19,13 @@
 #
 ---
 
-TEST
+JDK 확인 
 ---
 > TEST <br>
 
 |-|
 |-|
-|-|
+|<img src="IMG/01.png" />|
 
 ```
 -
@@ -35,7 +35,7 @@ TEST
 #
 ---
 
-TEST
+SPRINGBOOT PROJECT받기 
 ---
 > TEST <br>
 
