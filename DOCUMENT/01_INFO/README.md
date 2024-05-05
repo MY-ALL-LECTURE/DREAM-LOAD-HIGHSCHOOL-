@@ -65,7 +65,7 @@
 
 |-|
 |-|
-|<img src="https://pixabay.kr/data/file/notice/thumb-1596478864771_835x470.jpg"|
+|<img src="https://pixabay.kr/data/file/notice/thumb-1596478864771_835x470.jpg" /> |
 
 
 [참고] IOT vs Embedded 
