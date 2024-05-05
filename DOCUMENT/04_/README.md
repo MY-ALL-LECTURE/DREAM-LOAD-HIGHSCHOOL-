@@ -7,7 +7,7 @@ TEST
 |-|-|
 |-|-|
 |JDK|[DOWNLOAD](https://jdk.java.net/archive/)|
-|-|-|
+|INTELLIJ IDE|[DOWNLOAD](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)|
 |-|-|
 |-|-|
 
