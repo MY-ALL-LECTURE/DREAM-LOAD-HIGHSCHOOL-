@@ -21,11 +21,11 @@ ARDUINO IDE 설치
 
 |-|-|
 |-|-|
-|<img src="IMG/03/1.png" />|<img src="IMG/03/2.png" />|
-|<img src="IMG/03/3.png" />|<img src="IMG/03/4.png" />|
-|<img src="IMG/03/5.png" />|<img src="IMG/03/6.png" />|
-|<img src="IMG/03/7.png" />|<img src="IMG/03/8.png" />|
-|<img src="IMG/03/9.png" />|-|
+|<img src="IMG/02/1.png" />|<img src="IMG/02/2.png" />|
+|<img src="IMG/02/3.png" />|<img src="IMG/02/4.png" />|
+|<img src="IMG/02/5.png" />|<img src="IMG/02/6.png" />|
+|<img src="IMG/02/7.png" />|<img src="IMG/02/8.png" />|
+|<img src="IMG/02/9.png" />|-|
 
 
 
