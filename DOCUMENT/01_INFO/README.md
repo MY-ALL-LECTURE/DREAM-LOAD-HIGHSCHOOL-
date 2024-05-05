@@ -23,7 +23,7 @@
 |하드웨어|-|소프트웨어|
 |-|-|-|
 |부품|-|하드웨어를 동작시키는 프로그램|
-|<img width=450px height=300px src="2.jpg"/>|-|<img width=450px height=300px src="3.jpg"/>|
+|<img src="2.jpg"/>|-|<img  src="3.jpg"/>|
 
 
 #### 소프트웨어 종류
