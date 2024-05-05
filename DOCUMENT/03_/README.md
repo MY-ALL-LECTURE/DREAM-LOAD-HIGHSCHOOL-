@@ -43,9 +43,19 @@ Serial.print(data) / Serial.println(data):
 
 ```
 
+> 따라해보기<br>
 
 ```
--
+void setup() {
+  Serial.begin(9600);
+  Serial.println("SETUP FUNCTION..");
+  delay(1000);
+}
+void loop() {
+   Serial.println("[Loop] HELLOWORLD");
+   delay(1000);
+}
+
 ```
 
 ---
