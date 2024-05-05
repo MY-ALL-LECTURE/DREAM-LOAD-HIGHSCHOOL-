@@ -150,7 +150,7 @@ LED 점등실습-04(아날로그)
 > - <br>
 
 |-|
-|-|
+|-:|
 |<img src="IMG/01/4.png"/>|
 |[바로가기-시뮬레이터](https://www.tinkercad.com/things/akqGO2NH2xY-led-04?sharecode=XeMAN3-tNhbaEC2c1nQH_jWuJaZ312uVC2yZzTJZXF0)|
 
