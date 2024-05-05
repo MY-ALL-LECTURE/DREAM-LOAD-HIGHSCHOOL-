@@ -81,7 +81,7 @@ LED 점등실습-02
 > [공유링크] <br>
 
 |-|
-|-|
+|-:|
 |<img src="IMG/01/2.png"/> |
 |[바로가기-시뮬레이터](https://www.tinkercad.com/things/hM41NEIwThZ-led-02?sharecode=My3keytqNlIphL6EeDeDNpol_kgyN_e6flSmUf5kj44)|
 
