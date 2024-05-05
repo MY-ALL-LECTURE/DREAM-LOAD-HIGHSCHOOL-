@@ -37,9 +37,12 @@ CH340 DRIVER 설치
 ---
 > - <br>
 
-|-|
-|-|
-|-|
+|-|-|
+|-|-|
+|<img src="IMG/03/1.png" />||
+|<img src="IMG/03/2.png" />|<img src="IMG/03/3.png" />|
+|<img src="IMG/03/4.png" />|<img src="IMG/03/5.png" />|
+
 
 ---
 #
