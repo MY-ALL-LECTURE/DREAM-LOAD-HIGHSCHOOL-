@@ -17,7 +17,7 @@ TEST <br>
 #
 ---
 
-TMP
+IDE 설치
 ---
 TEST <br>
 
@@ -29,7 +29,7 @@ TEST <br>
 #
 ---
 
-TMP
+CH340 드라이버 설치
 ---
 TEST <br>
 
@@ -41,7 +41,7 @@ TEST <br>
 #
 ---
 
-TMP
+기본실행 환경 확인
 ---
 TEST <br>
 
