@@ -34,9 +34,9 @@ LED 점등실습-01
 > 그림 <br>
 
 |-|
-|-|
-|[바로가기-시뮬레이터](https://www.tinkercad.com/things/7hG3uHjqq5y-led-?sharecode=8ZboE8SFsWNvcxJhP5Elq_7MJDO3u65oWl48yYvu5yQ)|
+|-:|
 |<img src="IMG/01/1.png"/> |
+|[바로가기-시뮬레이터](https://www.tinkercad.com/things/7hG3uHjqq5y-led-?sharecode=8ZboE8SFsWNvcxJhP5Elq_7MJDO3u65oWl48yYvu5yQ)|
 
 > 예제 1 <br>
 
