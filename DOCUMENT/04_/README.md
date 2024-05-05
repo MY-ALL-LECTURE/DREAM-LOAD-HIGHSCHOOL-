@@ -3,8 +3,11 @@
 선행작업
 ---
 > JDK 11 설치 <br>
+
 > PATH 에 JDK 11 경로 등록 <br>
+
 > INTELLIJ COMMUNITY DOWNLOAD <br>
+
 > INTELLIJ PATH 설정 <br>
 
 |-|-|-|
