@@ -57,6 +57,10 @@
 > 여러 컴퓨터나 기타 장치들이(or 시스템) 데이터를 주고받을 수 있도록 연결된 구조를 의미<br>
 > Keyword : 연결과 공유<br>
 
+|-|
+|-|
+|<img width=450px height=300px src="https://www.shutterstock.com/shutterstock/photos/1522094915/display_1500/stock-photo-computer-network-internet-concept-network-diagram-d-illustration-1522094915.jpg" /> |
+
 #### 아키텍처란
 ---
 > 시스템의 구조, 동작 등을 정의하는 개념적인 모형으로 시스템의 목적을 달성하기 위해 시스템의 각 컴포넌트가 무엇이며 어떻게 상호작용 하는지, 정보가 어떻게 교환되는 지를 설명<br>
