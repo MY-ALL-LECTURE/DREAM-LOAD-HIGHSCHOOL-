@@ -36,7 +36,7 @@ LED 점등실습-01(디지털)
 |-|
 |-:|
 |<img src="IMG/01/1.png"/> |
-|[바로가기-시뮬레이터](https://www.tinkercad.com/things/7hG3uHjqq5y-led-?sharecode=8ZboE8SFsWNvcxJhP5Elq_7MJDO3u65oWl48yYvu5yQ)|
+|[바로가기-시뮬레이터](https://www.tinkercad.com/things/7hG3uHjqq5y-led-01?sharecode=8ZboE8SFsWNvcxJhP5Elq_7MJDO3u65oWl48yYvu5yQ)|
 
 > 예제 1 DigitalWrite() <br>
 
@@ -82,9 +82,9 @@ LED 점등실습-02(아날로그)
 > - <br>
 
 |-|
-|-|
+|-:|
 |<img src="IMG/01/2.png"/>|
-|[바로가기-시뮬레이터]()|
+|[바로가기-시뮬레이터](https://www.tinkercad.com/things/6ynEMLKTIpW-led-02?sharecode=lnyA5xWVZnRQS8cYAfHyU9gNBGNZciFeFtu3Y5yH668)|
 
 ```
 const unsigned int AnalogPin=3;
@@ -119,7 +119,7 @@ LED 점등실습-03(디지털)
 |-|
 |-:|
 |<img src="IMG/01/3.png"/> |
-|[바로가기-시뮬레이터](https://www.tinkercad.com/things/hM41NEIwThZ-led-02?sharecode=My3keytqNlIphL6EeDeDNpol_kgyN_e6flSmUf5kj44)|
+|[바로가기-시뮬레이터](https://www.tinkercad.com/things/hM41NEIwThZ-led-03?sharecode=My3keytqNlIphL6EeDeDNpol_kgyN_e6flSmUf5kj44)|
 
 ```
 const unsigned int led[5] = {2,3,4,5,6};
@@ -152,7 +152,7 @@ LED 점등실습-04(아날로그)
 |-|
 |-|
 |<img src="IMG/01/4.png"/>|
-|[바로가기-시뮬레이터](https://www.tinkercad.com/things/akqGO2NH2xY-led-03?sharecode=XeMAN3-tNhbaEC2c1nQH_jWuJaZ312uVC2yZzTJZXF0)|
+|[바로가기-시뮬레이터](https://www.tinkercad.com/things/akqGO2NH2xY-led-04?sharecode=XeMAN3-tNhbaEC2c1nQH_jWuJaZ312uVC2yZzTJZXF0)|
 
 
 > 기본예제 <br>
