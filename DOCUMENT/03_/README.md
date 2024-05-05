@@ -72,23 +72,53 @@ void loop()
 }
 ```
 
->예제 3  analogWrite() <br>
+
+---
+#
+---
+
+LED 점등실습-02(아날로그)
+---
+> - <br>
+
+|-|
+|-|
+|<img src="IMG/01/2.png"/>|
+|[바로가기-시뮬레이터]()|
 
 ```
+const unsigned int AnalogPin=3;
 
+void setup() {
+  pinMode(AnalogPin,OUTPUT);
+}
+void loop() {
+	for(int i=0;i<=255;i++)
+    {
+        analogWrite(AnalogPin,i);
+		delay(10);
+    }
+  	//analogWrite(AnalogPin,0);
+  
+  	for(int i=255;i>=0;i--)
+    {
+        analogWrite(AnalogPin,i);
+		delay(10);
+    }	
+}
 ```
 
 ---
 #
 ---
 
-LED 점등실습-02(디지털)
+LED 점등실습-03(디지털)
 ---
 > [공유링크] <br>
 
 |-|
 |-:|
-|<img src="IMG/01/2.png"/> |
+|<img src="IMG/01/3.png"/> |
 |[바로가기-시뮬레이터](https://www.tinkercad.com/things/hM41NEIwThZ-led-02?sharecode=My3keytqNlIphL6EeDeDNpol_kgyN_e6flSmUf5kj44)|
 
 ```
@@ -115,13 +145,13 @@ void loop() {
 #
 ---
 
-LED 점등실습-03(아날로그)
+LED 점등실습-04(아날로그)
 ---
 > - <br>
 
 |-|
 |-|
-|<img src="IMG/01/3.png"/>|
+|<img src="IMG/01/4.png"/>|
 |[바로가기-시뮬레이터](https://www.tinkercad.com/things/akqGO2NH2xY-led-03?sharecode=XeMAN3-tNhbaEC2c1nQH_jWuJaZ312uVC2yZzTJZXF0)|
 
 
