@@ -27,8 +27,6 @@
 |Serial.print(data) <br> Serial.println(data):|시리얼 모니터로 데이터를 보냅니다.<br>data는 보낼 데이터이고, println()은 데이터 뒤에 줄 바꿈 문자를 추가하여 출력합니다.|
 
 
-```
-
 > 따라해보기<br>
 
 ```
