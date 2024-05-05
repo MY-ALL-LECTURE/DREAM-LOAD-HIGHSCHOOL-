@@ -10,9 +10,10 @@
 #### 프로그램이란
 ---
 > 진행 계획이나 순서, 잘짜여진 순서의 묶음 <br>
+
 |-|
 |-|
-|<img width=450px height=300px src="01.jpg"/>| 
+|<img width=450px height=300px src="1.jpg"/>| 
 
 
 
