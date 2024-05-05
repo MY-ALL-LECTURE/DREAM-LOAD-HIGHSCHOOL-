@@ -28,7 +28,17 @@ LED 점등실습-01
 |-|
 
 ```
--
+const unsigned int pinNo = 2;
+
+void setup()
+{
+   pinMode(pinNo,OUTPUT);
+}
+
+void loop()
+{
+	digitalWrite(pinNo, HIGH);
+}
 ```
 
 ---
