@@ -20,6 +20,12 @@
 |![images](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/f6c18eac-bea5-4b57-9c43-bc2cb5cf7f6d)|-|![download](https://github.com/MY-ALL-LECTURE/DREAM-LOAD/assets/84259104/b0579c54-d1fc-4ec3-b6bb-ed8c3deaa048)|
 
 
+|시스템 S/W|-|APPLICATION|
+|-|-|-|
+|HardWare를 제어|-|사용자의목적달성|
+|<img src="https://github.com/MY-ALL-LECTURE/PYTHON/assets/84259104/8e2cd21c-fe96-49b6-8c94-0cd05c73a26c" width="400px" height="200px" />|-|<img src="https://github.com/MY-ALL-LECTURE/PYTHON/assets/84259104/e5a2f3ad-2074-43dd-ab30-ef395a0b4e0a" width="400px" height="200px" /> |
+
+
 #### 어플리케이션이란
 ---
 > 시스템 소프트웨어(OS)를 제외한 나머지 소프트웨어
