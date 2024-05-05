@@ -57,7 +57,7 @@ ARDUINO 구성품 확인
 
 |-|-|-|
 |-|-|-|
-|<img src="IMG/05/1.png" /> |-|-|
+|<img width=450px height=300px src="IMG/05/1.png" /> |-|-|
 |-|-|-|
 |-|-|-|
 |-|-|-|
