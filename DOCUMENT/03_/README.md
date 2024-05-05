@@ -7,7 +7,7 @@
 
 |-|
 |-|
-|![20240505143625](https://github.com/MY-ALL-LECTURE/DREAM-LOAD-HIGHSCHOOL-/assets/84259104/6b112cf6-064f-4a18-9fde-af51ffc29fb2)|
+|<img src="IMG/01/0.png"/>|
 |-|
 
 > 사용함수 정리 <br>
