@@ -38,7 +38,7 @@ LED 점등실습-01(디지털)
 |<img src="IMG/01/1.png"/> |
 |[바로가기-시뮬레이터](https://www.tinkercad.com/things/7hG3uHjqq5y-led-?sharecode=8ZboE8SFsWNvcxJhP5Elq_7MJDO3u65oWl48yYvu5yQ)|
 
-> 예제 1 <br>
+> 예제 1 DigitalWrite() <br>
 
 ```
 const unsigned int pinNo = 2;
@@ -54,7 +54,7 @@ void loop()
 }
 ```
 
-> 예제 2 <br>
+> 예제 2 DigitalWrite()<br>
 
 ```
 const unsigned int pinNo = 2;
@@ -70,6 +70,12 @@ void loop()
   	delay(500);
 	digitalWrite(pinNo, LOW);
 }
+```
+
+>예제 3  analogWrite() <br>
+
+```
+
 ```
 
 ---
@@ -116,7 +122,7 @@ LED 점등실습-03(아날로그)
 |-|
 |-|
 |<img src="IMG/01/3.png"/>|
-|[바로가기-시뮬레이터]()|
+|[바로가기-시뮬레이터](https://www.tinkercad.com/things/akqGO2NH2xY-led-03?sharecode=XeMAN3-tNhbaEC2c1nQH_jWuJaZ312uVC2yZzTJZXF0)|
 
 
 > 기본예제 <br>
@@ -184,57 +190,3 @@ void loop() {
 ```
 
 
----
-#
----
-
-LED 점등실습-01
----
-> - <br>
-
-|-|
-|-|
-|-|
-|-|
-
-```
--
-```
-
----
-#
----
-
-LED 점등실습-01
----
-> - <br>
-
-|-|
-|-|
-|-|
-|-|
-
-```
--
-```
-
----
-#
----
-
-LED 점등실습-01
----
-> - <br>
-
-|-|
-|-|
-|-|
-|-|
-
-```
--
-```
-
----
-#
----
