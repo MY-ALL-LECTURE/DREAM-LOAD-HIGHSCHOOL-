@@ -109,7 +109,7 @@ void loop() {
 #
 ---
 
-LED 점등실습-01
+LED 점등실습-03
 ---
 > - <br>
 
@@ -118,9 +118,71 @@ LED 점등실습-01
 |-|
 |-|
 
+
+> 기본예제 <br>
+
 ```
--
+const unsigned int led[5] = {3,5,6,9,10};
+
+void setup() {
+  
+}
+void loop() {
+  
+	for(int i=0;i<=255;i++)
+    {
+        analogWrite(led[0],i);
+		delay(5);
+    }
+ 	analogWrite(led[0],0);
+  	for(int i=0;i<=255;i++)
+    {
+        analogWrite(led[1],i);
+		delay(5);
+    }
+ 	analogWrite(led[1],0);
+  	for(int i=0;i<=255;i++)
+    {
+        analogWrite(led[2],i);
+		delay(5);
+    }
+ 	analogWrite(led[2],0);
+  	for(int i=0;i<=255;i++)
+    {
+        analogWrite(led[3],i);
+		delay(5);
+    }
+ 	analogWrite(led[3],0);
+  	for(int i=0;i<=255;i++)
+    {
+        analogWrite(led[4],i);
+		delay(5);
+    }
+ 	analogWrite(led[4],0);
+}
 ```
+
+> 또는 <br>
+```
+const unsigned int led[5] = {3,5,6,9,10};
+
+void setup() {
+  
+}
+void loop() {
+  
+  for(int i=0;i<5;i++)
+  {
+	for(int led_high=0;led_high<=255;led_high++)
+    {
+        analogWrite(led[i],led_high);
+		delay(5);
+    }
+ 	analogWrite(led[i],0);
+  }
+}
+```
+
 
 ---
 #
