@@ -9,8 +9,6 @@
 |OS|WINDOW 10|-|기본 환경|
 |IDE|ARDUINO IDE|[홈페이지](https://www.arduino.cc/en/software)|아두이노 프로그램 개발에 사용되는 도구|
 |API|CH340 DRIVER|[홈페이지](https://sparks.gogo.co.nz/ch340.html)|프로그램간 통신을 위해서 사용되는 도구(USB 연결 드라이버)|
-|-|-|-|-|
-|직접 다운로드|ARDUINO IDE|-|-|
 
 ---
 #
