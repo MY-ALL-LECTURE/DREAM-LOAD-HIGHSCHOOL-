@@ -43,7 +43,7 @@ ARDUINO 종류
 ---
 
 
-> - <br>
+> TOTAL PIC <br>
 
 |-|
 |-|
@@ -53,7 +53,7 @@ ARDUINO 종류
 |<img src="IMG/04/1-2.jpg" />|
 
 
-> - <br>
+> TOTAL SPEC <br>
 
 |-|
 |-|
