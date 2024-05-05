@@ -23,7 +23,7 @@ JDK 확인
 
 |-|
 |-|
-|<img src="IMG/01.png" />|
+|<img src="IMG/1.png" />|
 
 ```
 -
