@@ -53,6 +53,22 @@ void loop()
 }
 ```
 
+```
+const unsigned int pinNo = 2;
+
+void setup()
+{
+   pinMode(pinNo,OUTPUT);
+}
+void loop()
+{ 
+  	delay(500);
+	digitalWrite(pinNo, HIGH);
+  	delay(500);
+	digitalWrite(pinNo, LOW);
+}
+```
+
 ---
 #
 ---
