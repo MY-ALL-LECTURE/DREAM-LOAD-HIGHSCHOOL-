@@ -46,6 +46,7 @@ ARDUINO 종류
 > - <br>
 
 |-|
+|-|
 |1. 우노 Uno / 2. 나노 Nano / 3. 나노 에브리 Nano Every|
 |<img src="IMG/04/1.jpg" />|
 |4. 레오나르도 Leonardo / 5. 마이크로 Micro / 6. 101|
