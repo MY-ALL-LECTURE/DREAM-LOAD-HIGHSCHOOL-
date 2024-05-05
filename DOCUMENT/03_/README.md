@@ -1,13 +1,13 @@
 # 아두이노 우노 실습하기
 
 
-LED 점등실습-01
+사전확인
 ---
-> - <br>
+> EDIDTOR <br>
 
 |-|
 |-|
-|-|
+|![20240505143625](https://github.com/MY-ALL-LECTURE/DREAM-LOAD-HIGHSCHOOL-/assets/84259104/6b112cf6-064f-4a18-9fde-af51ffc29fb2)|
 |-|
 
 ```
