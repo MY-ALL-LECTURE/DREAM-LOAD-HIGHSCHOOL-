@@ -5,7 +5,7 @@
 ---
 TEST <br>
 
-|CATEGORY|NAME|DOWNLOAD LINK|DESCRIPTION|
+|CAT|NAME|LINK|DESCRIPTION|
 |-|-|-|-|
 |OS|WINDOWS 10|-|기본환경|
 |IDE|ARDUINO IDE|[다운로드](https://www.arduino.cc/en/software)|프로그램 개발을 도와주는 도구|
