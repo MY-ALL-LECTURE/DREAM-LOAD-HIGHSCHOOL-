@@ -12,28 +12,28 @@
 
 |-|
 |-|
-|<img width=350px src="./IMG/01_/1.png" />|
-|<img width=350px src="./IMG/01_/2.png" />|
-|<img width=350px src="./IMG/01_/3.png" />|
-|<img width=350px src="./IMG/01_/5.png" />|
+|<img width=450px src="./IMG/01_/1.png" />|
+|<img width=450px src="./IMG/01_/2.png" />|
+|<img width=450px src="./IMG/01_/3.png" />|
+|<img width=450px src="./IMG/01_/5.png" />|
 
 > WINDOW PATH 환경변수 설정 <br>
 
 |-|
 |-|
-|<img src="./IMG/02_/1.png" />|
-|<img src="./IMG/02_/2.png" />|
-|<img src="./IMG/02_/3.png" />|
-|<img src="./IMG/02_/4.png" />|
-|<img src="./IMG/02_/5.png" />|
-|<img src="./IMG/02_/6.png" />|
-|<img src="./IMG/02_/7.png" />|
-|<img src="./IMG/02_/8.png" />|
-|<img src="./IMG/02_/9.png" />|
-|<img src="./IMG/02_/10.png" />|
-|<img src="./IMG/02_/11.png" />|
-|<img src="./IMG/02_/12.png" />|
-|<img src="./IMG/02_/13.png" />|
+|<img width=450px  src="./IMG/02_/1.png" />|
+|<img  width=450px src="./IMG/02_/2.png" />|
+|<img  width=450px src="./IMG/02_/3.png" />|
+|<img  width=450px src="./IMG/02_/4.png" />|
+|<img  width=450px src="./IMG/02_/5.png" />|
+|<img  width=450px src="./IMG/02_/6.png" />|
+|<img  width=450px src="./IMG/02_/7.png" />|
+|<img  width=450px src="./IMG/02_/8.png" />|
+|<img  width=450px src="./IMG/02_/9.png" />|
+|<img  width=450px src="./IMG/02_/10.png" />|
+|<img  width=450px src="./IMG/02_/11.png" />|
+|<img  width=450px src="./IMG/02_/12.png" />|
+|<img  width=450px src="./IMG/02_/13.png" />|
 
 
 
