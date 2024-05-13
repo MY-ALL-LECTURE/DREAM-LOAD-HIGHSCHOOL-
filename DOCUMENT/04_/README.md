@@ -15,7 +15,6 @@
 |<img width=350px src="./IMG/01_/1.png" />|
 |<img width=350px src="./IMG/01_/2.png" />|
 |<img width=350px src="./IMG/01_/3.png" />|
-|<img width=350px src="./IMG/01_/4.png" />|
 |<img width=350px src="./IMG/01_/5.png" />|
 
 > WINDOW PATH 환경변수 설정 <br>
