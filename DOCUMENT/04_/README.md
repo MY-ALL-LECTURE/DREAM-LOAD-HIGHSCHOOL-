@@ -6,7 +6,7 @@
 |INTELLIJ IDE|[설치/설정](https://m.blog.naver.com/djusti/223143383341)|[DOWNLOAD](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)|
 
 
-기본환경
+강의장 기본환경
 ---
 > OPENJDK 21 설치 <br>
 
