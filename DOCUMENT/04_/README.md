@@ -16,6 +16,7 @@
 
 > INTELLIJ 경로 PATH 설정 <br>
 
+> 기본 Project Download <br>
 
 ```
 -
