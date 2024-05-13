@@ -2,7 +2,7 @@
 
 |-|-|-|
 |-|-|-|
-|JDK|[설치설정](https://kjchoi.co.kr/16)|[DOWNLOAD](https://jdk.java.net/archive/)|
+|JDK|[설치설정](https://jdk.java.net/archive/)|-|
 |INTELLIJ IDE|[설치/설정](https://m.blog.naver.com/djusti/223143383341)|[DOWNLOAD](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)|
 
 
