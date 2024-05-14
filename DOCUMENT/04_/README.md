@@ -5,10 +5,12 @@
 |JDK|[설치설정](https://jdk.java.net/archive/)|-|
 |INTELLIJ IDE|[설치/설정](https://m.blog.naver.com/djusti/223143383341)|[DOWNLOAD](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)|
 
-
-강의장 기본환경
 ---
-> OPENJDK 21 설치 <br>
+# 강의장 기본환경
+---
+
+OPENJDK 21 설치 <br>
+---
 
 |-|
 |-|
@@ -18,6 +20,7 @@
 |<img width=450px src="./IMG/01_/5.png" />|
 
 > WINDOW PATH 환경변수 설정 <br>
+---
 
 |-|
 |-|
@@ -59,109 +62,3 @@
 |<img  width=450px src="./IMG/04_/5.png" />|
 
 
-
-> 기본 Project Download <br>
-
-```
--
-```
-
----
-#
----
-
-JDK 확인 
----
-> TEST <br>
-
-|-|
-|-|
-|<img src="IMG/1.png" />|
-
-```
--
-```
-
----
-#
----
-
-SPRINGBOOT PROJECT받기 
----
-> TEST <br>
-
-|-|
-|-|
-|-|
-
-```
--
-```
-
----
-#
----
-
-TEST
----
-> TEST <br>
-
-|-|
-|-|
-|-|
-
-```
--
-```
-
----
-#
----
-
-TEST
----
-> TEST <br>
-
-|-|
-|-|
-|-|
-
-```
--
-```
-
----
-#
----
-
-TEST
----
-> TEST <br>
-
-|-|
-|-|
-|-|
-
-```
--
-```
-
----
-#
----
-
-TEST
----
-> TEST <br>
-
-|-|
-|-|
-|-|
-
-```
--
-```
-
----
-#
----
