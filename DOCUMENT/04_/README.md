@@ -9,7 +9,7 @@
 # 강의장 기본환경
 ---
 
-OPENJDK 21 설치 <br>
+OPENJDK 21 설치  
 ---
 
 |-|
@@ -19,7 +19,8 @@ OPENJDK 21 설치 <br>
 |<img width=450px src="./IMG/01_/3.png" />|
 |<img width=450px src="./IMG/01_/5.png" />|
 
-> WINDOW PATH 환경변수 설정 <br>
+
+WINDOW PATH 환경변수 설정 
 ---
 
 |-|
@@ -41,7 +42,8 @@ OPENJDK 21 설치 <br>
 
 
 
-> INTELLIJ COMMUNITY DOWNLOAD <br>
+INTELLIJ COMMUNITY DOWNLOAD 
+---
 
 |-|
 |-|
@@ -51,7 +53,8 @@ OPENJDK 21 설치 <br>
 |다음->다음 진행|
 
 
-> INTELLIJ 경로 PATH 설정 <br>
+INTELLIJ 경로 PATH 설정 
+---
 
 |-|
 |-|
