@@ -3,8 +3,8 @@
 |-|-|-|
 |-|-|-|
 |JDK-21|[DOWNLOAD](https://jdk.java.net/archive/)|-|
-|INTELLIJ IDE|[DOWNLOAD](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)|
-|PROJECT DOWN|[DOWNLOAD]()|
+|INTELLIJ IDE|[DOWNLOAD](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)|-|
+|PROJECT DOWN|[DOWNLOAD]()|-|
 
 ---
 # 강의장 기본환경
