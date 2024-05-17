@@ -65,3 +65,24 @@ INTELLIJ 경로 PATH 설정
 |<img  width=450px src="./IMG/04_/5.png" />|
 
 
+웹서버 프로젝트 실행
+---
+
+|-|
+|-|
+|<img  width=450px src="./IMG/05_/1.png" />|
+|<img  width=450px src="./IMG/05_/2.png" />|
+|<img  width=450px src="./IMG/05_/3.png" />|
+|<img  width=450px src="./IMG/05_/4.png" />|
+
+
+웹서버 프로젝트 기본설정
+---
+
+|-|
+|-|
+|<img  width=450px src="./IMG/06_/1.png" />|
+|<img  width=450px src="./IMG/06_/2.png" />|
+|<img  width=450px src="./IMG/06_/3.png" />|
+|<img  width=450px src="./IMG/06_/4.png" />|
+
