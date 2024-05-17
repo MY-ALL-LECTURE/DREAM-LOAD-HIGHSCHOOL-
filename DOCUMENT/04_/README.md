@@ -2,7 +2,7 @@
 
 |-|-|-|
 |-|-|-|
-|JDK|[설치설정](https://jdk.java.net/archive/)|-|
+|JDK-21|[DOWNLOAD](https://jdk.java.net/archive/)|-|
 |INTELLIJ IDE|[DOWNLOAD](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)|
 |PROJECT DOWN|[DOWNLOAD]()|
 
