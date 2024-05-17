@@ -76,15 +76,22 @@ INTELLIJ 경로 PATH 설정
 |<img  width=450px src="./IMG/05_/2.png" />|
 |<img  width=450px src="./IMG/05_/3.png" />|
 |<img  width=450px src="./IMG/05_/4.png" />|
+|<img  width=450px src="./IMG/05_/5.png" />|
+|<img  width=450px src="./IMG/05_/6.png" />|
+|<img  width=450px src="./IMG/05_/7.png" />|
+|<img  width=450px src="./IMG/05_/8.png" />|
+|<img  width=450px src="./IMG/05_/9.png" />|
+|<img  width=450px src="./IMG/05_/10.png" />|
+|<img  width=450px src="./IMG/05_/11.png" />|
+|<img  width=450px src="./IMG/05_/12.png" />|
+|<img  width=450px src="./IMG/05_/13.png" />|
+|<img  width=450px src="./IMG/05_/14.png" />|
+|<img  width=450px src="./IMG/05_/15.png" />|
+|<img  width=450px src="./IMG/05_/16.png" />|
+|<img  width=450px src="./IMG/05_/17.png" />|
+|<img  width=450px src="./IMG/05_/18.png" />|
+|<img  width=450px src="./IMG/05_/19.png" />|
+|<img  width=450px src="./IMG/05_/20.png" />|
 
 
-웹서버 프로젝트 기본설정
----
-
-|-|
-|-|
-|<img  width=450px src="./IMG/06_/1.png" />|
-|<img  width=450px src="./IMG/06_/2.png" />|
-|<img  width=450px src="./IMG/06_/3.png" />|
-|<img  width=450px src="./IMG/06_/4.png" />|
 
