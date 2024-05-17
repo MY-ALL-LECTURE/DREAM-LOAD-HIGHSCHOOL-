@@ -34,7 +34,7 @@
 |-|-|-|
 |HardWare를 제어|-|사용자의목적달성|
 |<img width=450px height=300px src="img/4.jpg"/>|-|<img width=450px height=300px src="img/5.jpg"/> |
-
+|중추신경계를 제어,반사신경,무의적으로 반응|-|영어공부,공방체험,프라모델만들기..|
 
 #### 시스템
 ---
