@@ -4,8 +4,8 @@
 |-|-|-|
 |JDK-21|[DOWNLOAD](https://jdk.java.net/archive/)|-|
 |INTELLIJ IDE|[DOWNLOAD](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)|-|
-|웹프로젝트 INIT |[DOWNLOAD](./DOWNLOAD/초안.zip)|-|
-|웹프로젝트 INIT |[DOWNLOAD](./DOWNLOAD/초안.zip)|-|
+|DOWNLOAD |[DOWNLOAD](./DOWNLOAD/)|-|
+
 
 ---
 # 강의장 기본환경
