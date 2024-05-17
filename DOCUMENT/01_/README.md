@@ -34,6 +34,8 @@
 |-|-|-|
 |HardWare를 제어|-|사용자의목적달성|
 |<img width=450px height=300px src="img/4.jpg"/>|-|<img width=450px height=300px src="img/5.jpg"/> |
+|EX|-|-|
+|-|-|APP : 한국어 / 목적 : 의사소통<br> APP : 나만의라면레시피 / 목적 : 생존욕구<br>|
 
 
 #### 시스템
