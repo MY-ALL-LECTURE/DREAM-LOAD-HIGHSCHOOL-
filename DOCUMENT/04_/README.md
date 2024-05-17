@@ -3,7 +3,8 @@
 |-|-|-|
 |-|-|-|
 |JDK|[설치설정](https://jdk.java.net/archive/)|-|
-|INTELLIJ IDE|[설치/설정](https://m.blog.naver.com/djusti/223143383341)|[DOWNLOAD](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)|
+|INTELLIJ IDE|[DOWNLOAD](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)|
+|PROJECT DOWN|[DOWNLOAD]()|
 
 ---
 # 강의장 기본환경
