@@ -102,6 +102,8 @@ LED 점등실습-02(아날로그)
 |-:|
 |<img src="IMG/01/2.png"/>|
 |[바로가기-시뮬레이터](https://www.tinkercad.com/things/6ynEMLKTIpW-led-02?sharecode=lnyA5xWVZnRQS8cYAfHyU9gNBGNZciFeFtu3Y5yH668)|
+|-|
+|![0](https://github.com/MY-ALL-LECTURE/DREAM-LOAD-HIGHSCHOOL-/assets/84259104/01c715de-9ed4-492e-8764-ce1ac0aaa2ea)|
 
 ```
 const unsigned int AnalogPin=3;
