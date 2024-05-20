@@ -139,6 +139,8 @@ LED 점등실습-03(디지털)
 |-:|
 |<img src="IMG/01/3.png"/> |
 |[바로가기-시뮬레이터](https://www.tinkercad.com/things/hM41NEIwThZ-led-03?sharecode=My3keytqNlIphL6EeDeDNpol_kgyN_e6flSmUf5kj44)|
+|-|
+|![00](https://github.com/MY-ALL-LECTURE/DREAM-LOAD-HIGHSCHOOL-/assets/84259104/ddfadaf5-8dc3-4dab-83a2-f2ed7a7ebc30)|
 
 ```
 const unsigned int led[5] = {2,3,4,5,6};
