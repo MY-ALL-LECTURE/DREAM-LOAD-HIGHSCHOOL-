@@ -6,7 +6,7 @@
 | INTELLIJ IDE |[DOWNLOAD](https://www.jetbrains.com/ko-kr/idea/download/?section=windows)|-|
 | WEB PROJECT |[DOWNLOAD](./DOWNLOAD/)|-|
 |-|-|-|
-|ALL|전체 다운로드|[바로가기](http://naver.me/xFoxpdQT)|-|
+|ALL|[바로가기](http://naver.me/xFoxpdQT)|-|
 
 ---
 # 강의장 기본환경
