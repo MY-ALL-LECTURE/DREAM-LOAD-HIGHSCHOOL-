@@ -5,7 +5,7 @@
 |DOWNLOAD|[바로가기](http://naver.me/xFoxpdQT)|-|
 
 
-# 강의장 기본환경
+# 웹프로젝트 설정
 ---
 
 
